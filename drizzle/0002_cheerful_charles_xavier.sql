@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `operations` text DEFAULT '' NOT NULL;

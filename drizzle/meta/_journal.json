@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788896739190,
+      "tag": "0000_sloppy_pestilence",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788956085867,
+      "tag": "0001_chilly_wendell_vaughn",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1789472479445,
+      "tag": "0002_cheerful_charles_xavier",
+      "breakpoints": true
+    }
+  ]
+}

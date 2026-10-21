@@ -1,0 +1,10 @@
+ENTREGA A CODEX — VALTU 3D
+Código recuperado del repositorio original de Sites el 20/10/2026.
+Commit: 3dc5f485eff323aa92baff74f7070ae1f4a1d382.
+Incluye archivos versionados, esquema y migraciones; NO incluye una copia de datos de producción ni credenciales de acceso.
+Tecnologías observadas: TypeScript, React, Vinext/Vite, Cloudflare Workers, D1 y Drizzle. Autenticación de Sites/ChatGPT.
+Los registros actuales se separan por owner (usuario), no por organizaciones con miembros. Migrar conscientemente al nuevo diseño de negocios y roles.
+No se modificó ni desplegó la aplicación durante la recuperación. No se ejecutaron nuevamente las pruebas o el build: revisar README y scripts antes de ejecutar fuera de Sites, donde algunas dependencias del entorno requieren adaptación.
+Para respaldar datos: abrir la app original, Ajustes y copias, Descargar copia completa. Guardar JSON privado, fuera de GitHub. Su descarga y restauración no fueron verificadas en esta recuperación.
+No desplegar este proyecto sobre producción ni ejecutar migraciones sin respaldo. El manifiesto .openai/hosting.json identifica el Site original y se conserva como parte del código.
+El ZIP no incluye .git, node_modules ni archivos de entorno locales. Se revisaron patrones comunes de claves; no aparecieron coincidencias. Revisar nuevamente antes de publicar un repositorio.
